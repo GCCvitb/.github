@@ -57,7 +57,7 @@ Upcoming events are listed on our [Events Page](https://github.com/github-collab
 ## 📫 Connect With Us  
 💬 **WhatsApp**: [Join Community](https://chat.whatsapp.com/DoNEtLS8oG2HWQrPLnEXdi)  
 💬 **Github**: [@GHCvitb](https://github.com/GCCvitb)  
-💬 **Instagram**: [github_collaborators.vitb](https://www.instagram.com/github_collaborators.vitb/)
+💬 **Instagram**: [github_collaborators.vitb](https://www.instagram.com/github_collaborators.vitb/)    
 📧 **Email**: githubcollaboratorsclubvitb@gmail.com 
 
 ---
